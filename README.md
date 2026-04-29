@@ -1,12 +1,13 @@
 <div align="center">
 
-# hey, i'm Abhilash 👾
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:238636&height=200&section=header&text=Abhilash%20Maiya%20Y&fontSize=48&fontColor=3fb950&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20RVCE%20Bengaluru%20%C2%B7%202023–2027&descSize=16&descAlignY=60&descColor=7d8590" width="100%" />
 
-**AI/ML Engineer · RVCE Bengaluru · 2023–2027**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhilash--maiya--y-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhilash-maiya-y)
-[![Email](https://img.shields.io/badge/Email-abhilashmaiya35@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:abhilashmaiya35@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=abhimaiya3175&color=3fb950&style=flat&label=profile+views)](https://github.com/abhimaiya3175)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhilash-maiya-y)
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilashmaiya35@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhimaiya3175)
+[![Profile Views](https://komarev.com/ghpvc/?username=abhimaiya3175&color=3fb950&style=for-the-badge&label=VIEWS)](https://github.com/abhimaiya3175)
 
 </div>
 
