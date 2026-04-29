@@ -14,13 +14,41 @@
 ---
 
 ```python
-abhilash = {
-    "role"       : "B.E. AI/ML @ RV College of Engineering",
-    "focus"      : ["LLM Orchestration", "MLOps", "Computer Vision", "RAG"],
-    "stack"      : ["Python", "FastAPI", "PyTorch", "LangChain", "Docker"],
-    "achievement": "Runner-Up — Big Hack 2025 (24hr hackathon)",
-    "location"   : "Bengaluru, India 🇮🇳",
-}
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  👤  WHO AM I?
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+class Abhilash:
+
+    name       = "Abhilash Maiya Y"
+    handle     = "@abhimaiya3175"
+    based_in   = "Bengaluru, India 🇮🇳"
+    studying   = "B.E. AI/ML @ RV College of Engineering (2023–2027)"
+
+    focus = [
+        "🤖  LLM Orchestration & Multi-Agent Systems",
+        "📦  MLOps  ·  DVC  ·  MLflow  ·  Docker",
+        "👁️   Computer Vision  ·  YOLO  ·  DeepSORT",
+        "🔍  RAG Pipelines  ·  ChromaDB  ·  LangChain",
+    ]
+
+    stack = {
+        "languages" : ["Python", "TypeScript", "Java", "C", "R"],
+        "ai_ml"     : ["PyTorch", "HuggingFace", "scikit-learn", "spaCy"],
+        "backend"   : ["FastAPI", "WebSockets", "JWT", "REST APIs"],
+        "frontend"  : ["Next.js 14", "React Native", "Tailwind CSS"],
+        "data_ops"  : ["PostgreSQL", "Redis", "ChromaDB", "JSONB"],
+    }
+
+    achievement = "🥈 Runner-Up — Big Hack 2025  (built in 24 hrs)"
+
+    def say_hi(self):
+        return "I build things that ship, not just things that demo."
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+me = Abhilash()
+print(me.say_hi())
+# → "I build things that ship, not just things that demo."
 ```
 
 ---
