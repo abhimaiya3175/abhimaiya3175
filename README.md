@@ -55,12 +55,59 @@ print(me.say_hi())
 
 ## 🚀 Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**AI Travel Planning Engine**](https://github.com/abhimaiya3175) | LLM orchestrates 6 microservices → full trip plan from one prompt. RAG + WebSockets + JWT. Multi-surface: web, Telegram bot, mobile. | `LangChain` `ChromaDB` `FastAPI` `Redis` `Next.js` `React Native` |
-| [**Meeting Minutes MLOps Pipeline**](https://github.com/abhimaiya3175) | Multi-speaker audio → diarized transcript → topic discovery (LDA) → action items + summaries. Full MLOps: DVC, MLflow, GitHub Actions. | `Whisper` `HuggingFace` `MLflow` `DVC` `spaCy` `Docker` |
-| [**Crowd Density Monitor**](https://github.com/abhimaiya3175) | Real-time YOLO11x + DeepSORT tracking. Density estimation, heatmaps, risk alerts, live React dashboard via WebSockets. CUDA-accelerated. | `YOLO11x` `DeepSORT` `PyTorch` `OpenCV` `FastAPI` `React` |
-| [**Hospital Management AI**](https://github.com/abhimaiya3175) | ML triage engine (95%+ accuracy). NL→SQL via DeepSeek R1 70B. Multi-role portals. Supports English, Hindi & Kannada. | `Naive Bayes` `TF-IDF` `PostgreSQL` `DeepSeek R1` `FastAPI` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✈️ AI Travel Planning Engine</h3>
+      <p>LLM orchestrates <b>6 microservices</b> → complete trip plan from one natural language prompt. RAG + WebSockets + JWT. Runs on web, Telegram bot & mobile from a single backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-1c3c3c?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ChromaDB-ff6b35?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Native-61dafb?style=flat-square&logo=react&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ Meeting Minutes MLOps Pipeline</h3>
+      <p>Multi-speaker audio → diarized transcript → topic discovery (LDA) → action items + summaries. <b>Full MLOps</b>: data versioning, experiment tracking, reproducible pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MLflow-0194e2?style=flat-square&logo=mlflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DVC-945dd6?style=flat-square&logo=dvc&logoColor=white"/>
+        <img src="https://img.shields.io/badge/spaCy-09a3d5?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ Crowd Density Monitor</h3>
+      <p>Real-time <b>YOLO11x + DeepSORT</b> tracking. Density estimation, heatmaps, risk-level prediction & automated alerts — live React dashboard via WebSockets. CUDA-accelerated.</p>
+      <p>
+        <img src="https://img.shields.io/badge/YOLO11x-00FFAB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/DeepSORT-3d3d3d?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 Hospital Management AI</h3>
+      <p>ML triage engine with <b>95%+ accuracy</b> (Naive Bayes + TF-IDF). NL→SQL via DeepSeek R1 70B. Multi-role portals for patients, doctors, admins. Supports English, Hindi & Kannada.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Naive_Bayes-f7931e?style=flat-square"/>
+        <img src="https://img.shields.io/badge/TF--IDF-3776ab?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DeepSeek_R1-4f46e5?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -104,12 +151,16 @@ print(me.say_hi())
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=abhimaiya3175&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=prs&icon_color=3fb950&title_color=3fb950&text_color=e6edf3" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimaiya3175&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=3fb950&text_color=e6edf3" />
+<a href="https://github.com/abhimaiya3175">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhimaiya3175&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=prs&icon_color=3fb950&title_color=3fb950&text_color=e6edf3&bg_color=0d1117" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimaiya3175&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=3fb950&text_color=e6edf3&bg_color=0d1117" />
+</a>
 
-<br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=abhimaiya3175&theme=github-dark-blue&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhimaiya3175&theme=github-compact&hide_border=true&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=238636" />
 
 </div>
 
