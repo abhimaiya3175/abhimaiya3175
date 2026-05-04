@@ -109,7 +109,7 @@ print(me.say_hi())
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abhimaiya3175&theme=github-dark-blue&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
+<img src="https://streak-stats.demolab.com?user=abhimaiya3175&theme=github-dark-blue&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" />
 
 </div>
 
