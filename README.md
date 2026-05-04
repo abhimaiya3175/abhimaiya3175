@@ -151,15 +151,6 @@ print(me.say_hi())
 
 <div align="center">
 
-<a href="https://github.com/abhimaiya3175">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhimaiya3175&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=prs&icon_color=3fb950&title_color=3fb950&text_color=e6edf3&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimaiya3175&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=3fb950&text_color=e6edf3&bg_color=0d1117" />
-</a>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhimaiya3175&theme=github-compact&hide_border=true&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=238636" />
 
 </div>
